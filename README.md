@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maciej-Kalisz
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP & css via Tailwind
-- 💞️ I’m looking to collaborate on any projects where I cna learn and be of use
+- 👀 I’m interested in cybersecurity and web development
+- 🌱 I’m currently learning web development, primarily CS
+- 💞️ I’m looking to collaborate on any projects where I can learn and be of use
 - 📫 How to reach me:
       - [Twitter](https://twitter.com/_maciejKalisz)
       - [Email](mailto:hello@maciejkalisz.co.uk)
